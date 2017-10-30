@@ -1,0 +1,8 @@
+{
+    "name": "dad-jokes",
+    "version": "1.0.0",
+    "description": "Dad jokes",
+    "dependencies": {
+        "harp": "*"
+    }
+}
