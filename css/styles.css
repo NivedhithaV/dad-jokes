@@ -622,7 +622,7 @@ textarea {
 .wrapper {
   display: flex;
   flex-direction: column;
-  padding: 40px; }
+  padding: 2%; }
 
 .joke {
   width: 100%;
@@ -650,5 +650,15 @@ textarea {
   cursor: pointer; }
   .continue-text:focus {
     outline: none; }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: #333 !important; }
+  footer a {
+    text-decoration: none;
+    color: #4281A4 !important; }
 
 /*# sourceMappingURL=styles.css.map */
